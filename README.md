@@ -14,6 +14,9 @@
 </div>
 
 
+
+
+
 # Performance Insight OEE analysis
 
 This example shows how to use the Industrial Edge App "Performance Insight" with it´s embedded OEE dashboard to present the productivity of a plant transparently.
